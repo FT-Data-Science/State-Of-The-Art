@@ -30,7 +30,13 @@ _This document is a contribution of the members of French Tech Shanghai Data Sci
 
 ### Urban Studies
 
+## Method–Specific Resources
 
+### NLP
+
+### Deep learning
+
+### Statistics
 
 
 
