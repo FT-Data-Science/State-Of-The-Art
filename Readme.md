@@ -17,7 +17,7 @@ _This document is a contribution of the members of French Tech Shanghai Data Sci
 ### Best Practices
 * python + jupyterlab + pandas + scikitlearn
 
-### Intergrated Platforms
+### Integrated Platforms
 * rapidminer
 
 ## Domain–Specific Resources
